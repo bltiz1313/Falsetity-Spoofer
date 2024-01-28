@@ -1,4 +1,4 @@
-# Hanzo spoofer [1.5.8]
+# Falsetity Spoofer [1.5.8]
 
 Simple HWID-Changer 🔑︎ 
 Some Lines of the CLI Version 
